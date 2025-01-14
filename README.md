@@ -14,3 +14,7 @@ This repo contains my practical report code:
 * Programming II (mainly java)
 * Mobile Programming (mainly kotlin)
 * Web Programming II (mainly php)
+
+
+Note:
+Due to changing the repo structure, I have to delete some branches and folders and reupload 
