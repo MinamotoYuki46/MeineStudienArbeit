@@ -5,7 +5,7 @@ Welcome to my College Works repository! This repository contains all the project
 # About
 
 My name is Muhammad Fauzan Ahsani with number ID 2310817310009 from Lambung Mangkurat University. 
-Each projects seperated by branch. Some courses will have 2 folder for beginner and intermediate/advanced course with same topic. To read, please switch the branch
+Each projects seperated by folder. Some courses will have 2 folder for beginner and intermediate/advanced course with same topic.
 
 This repo contains my practical report code: 
 * Programming I (mainly c and python)
