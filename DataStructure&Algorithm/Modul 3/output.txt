@@ -1,0 +1,360 @@
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "3" berhasil dimasukkan di bagian depan
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "4" berhasil dimasukkan di bagian depan
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "7" berhasil dimasukkan di bagian depan
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "9" berhasil dimasukkan di bagian depan
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "10" berhasil dimasukkan di bagian depan
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "12" berhasil dimasukkan di bagian depan
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+12 10 9 7 4 3 
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "3 berhasil dimasukkan di bagian belakang
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "7 berhasil dimasukkan di bagian belakang
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "1 berhasil dimasukkan di bagian belakang
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "4 berhasil dimasukkan di bagian belakang
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data : Data "3 berhasil dimasukkan di bagian belakang
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+12 10 9 7 4 3 3 7 1 4 3 
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data yang ingin dicari : Data "2" tidak ditemukan pada Linked List.
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data yang ingin dicari : Setiap data yang berada di dalam tanda kurung siku ([...]) merupakan data yang anda cari.
+Linked List : 12 10 9 [7] 4 3 3 [7] 1 4 3 
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Data "3 " yang berada di belakang telah berhasil dihapus
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+12 10 9 7 4 3 3 7 1 4 
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+Masukkan data yang ingin dihapus : Setiap data "3" yang tedapat pada Linked List telah dihapus
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+12 10 9 7 4 7 1 4 
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+12 10 9 7 4 7 1 4 
+
+Press any key to continue!
+Single Linked List Circular (SLLC)
+==================================
+1. Tambah Depan
+2. Tambah Belakang
+3. Hapus Depan
+4. Hapus Belakang
+5. Tampilkan Data
+6. Hapus Semua Elemen
+7. Cari Data
+8. Hapus Setiap Data Tertentu
+9. Sisipkan Node/Data Baru Sebelum Data Tertentu
+10. Sisipkan Node/data baru Setelah Data Tertentu
+11. Quit
+Pilihan : 
+
+TERIMA KASIH
+Programme was made by Muhammad Fauzan Ahsani (2310817310009)
+
+Press any key to continue!
+
