@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soal 2 Modul 5</title>
+</head>
+<body>
+    <h1>Latihan JavaScript</h1>
+
+    <p id="demo">
+        Javascript bisa merubah isi elemen HTML
+    </p>
+
+    <script>
+        function myFunction()
+        {
+            var x = document.getElementById("demo"); // temukan elemen yang mana
+            x.innerHTML = "Ini isi terbaru!"; // rubah isinya
+        }
+    </script>
+
+    <button type="button" onclick="myFunction()">Click me!</button>
+</body>
+</html>

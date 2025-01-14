@@ -1,0 +1,96 @@
+
+.container {
+    padding: 10px;
+}
+.left-align {
+    margin-left: 0;
+}
+.center-align {
+    margin: 0 auto;
+    width: auto;
+}
+.right-align {
+    margin-left: auto;
+    margin-right: 0;
+}
+.logo {
+    font-weight: 700;
+    color: #5a7f97;
+}
+.icon {
+    color: #666;
+    font-size: 1.7rem;
+} 
+.inter-font {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+}
+.bottom {
+    height: 350px;
+}
+.btn {
+    border-radius: 20px 
+}
+.navbar-glassmorphism {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+.carousel-inner img {
+    height: 100vh; 
+    object-fit: cover; 
+}
+.navbar-overlay {
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    border: none;
+}
+.carousel-caption-custom {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+.carousel-text{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.form-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #e0e0e0;
+}
+
+.form-control {
+    border: none;
+    border-bottom: 2px solid #ccc;
+    border-radius: 0;
+}
+
+.form-control:focus {
+    border-bottom: 2px solid #3276c9;
+    box-shadow: none;
+}
+
+.form-row {
+    display: flex;
+    gap: 15px;
+}
+
+.form-row .mb-3 {
+    flex: 1;
+}
+
+.card-text{
+    text-align: justify;
+}

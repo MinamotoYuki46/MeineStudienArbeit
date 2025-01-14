@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soal 9 Modul 5</title>
+</head>
+<body>
+    <p>Klik tombol berikut untuk menampilkan konfirmasi</p>
+    <button onclick="myFunction()">Klik Disini</button>
+    <p id="demo"></p>
+
+    <script>
+        function myFunction(){
+            var x;
+            var name = prompt("Silahkan masukkan nama anda", "Galuh Meidaluna");
+            if(name != null){
+                x = "Selamat Datang! " + name + " bagaimana kabar anda hari ini?";
+                document.getElementById("demo").innerHTML = x;
+            }
+        }
+    </script>
+</body>
+</html>

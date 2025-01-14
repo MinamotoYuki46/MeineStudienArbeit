@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soal 11 Modul 5</title>
+</head>
+<body>
+    <h1>Latihan JavaScript</h1>
+    <p>Silahkan masukkan angka</p>
+    <input id="demo" type="text">
+    <script>
+        function myFunction(){
+            var x = document.getElementById("demo").value;
+            if (x == "" || isNaN(x)){
+                alert("Bukan angka")
+            }
+        }
+    </script>
+    <button type="button" onclick="myFunction()"> Cek Angka </button>
+</body>
+</html>

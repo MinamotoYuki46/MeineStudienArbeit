@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feedback Form</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid justify-content-center" style="background-color: black; padding: 20px;">
+        <form action="" class="justify-content-center">
+            <label for="input1" style="color: white;"><h3><b>Input 1</b></h3></label>
+            <input type="text" id="input1" class="form-control" placeholder="Input 1">
+            <br>
+            <label for="input2" style="color: white;"><h3><b>Input 2</b></h3></label>
+            <input type="text" id="input2" class="form-control" placeholder="Input 2">
+            <br>
+            <button type="button" class="btn btn-primary" onclick="swapInputs()">Swap Values</button>
+        </form>
+    </div>
+    
+    <script>
+        function swapInputs() {
+            // Get input values
+            var input1Value = document.getElementById("input1").value;
+            var input2Value = document.getElementById("input2").value;
+    
+            // Swap values
+            document.getElementById("input1").value = input2Value;
+            document.getElementById("input2").value = input1Value;
+        }
+    </script>
+    
+  <!-- Bootstrap JS and dependencies -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
