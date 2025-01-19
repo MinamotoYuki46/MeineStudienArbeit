@@ -1,10 +1,10 @@
 # College Works Repository
 
-Welcome to my College Works repository! This repository contains all the projects, assignments, and notes from my college courses.
+Welcome to my college works repository! This repository contains all the projects and assignments from my college courses.
 
 # About
 
-My name is Muhammad Fauzan Ahsani with number ID 2310817310009 from Lambung Mangkurat University. 
+My name is Muhammad Fauzan Ahsani ID: 2310817310009 from Lambung Mangkurat University (ULM). 
 Each projects seperated by folder. Some courses will have 2 folder for beginner and intermediate/advanced course with same topic.
 
 This repo contains my practical report code: 
@@ -15,6 +15,5 @@ This repo contains my practical report code:
 * Mobile Programming (mainly kotlin)
 * Web Programming II (mainly php)
 
-
-Note:
+# Note
 Due to changing the repo structure, I have to delete some branches and folders and reupload 
