@@ -3,7 +3,7 @@
     $lebar = 14.7;
     $tinggi = 5.4;
 
-    $areaLimasSegiEmpat = (1 / 3) * $panjang * $lebar * $tinggi;
+    $volumeLimasSegiEmpat = (1 / 3) * $panjang * $lebar * $tinggi;
 
-    echo number_format($areaLimasSegiEmpat, 3, ',', ) . " m3";
+    echo number_format($volumeLimasSegiEmpat, 3, ',', ) . " m3";
 ?>
