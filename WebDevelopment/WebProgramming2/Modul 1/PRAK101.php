@@ -1,7 +1,10 @@
 <?php 
+    $nama = "Muhammad Fauzan Ahsani";
+    $nim = "2310817310009";
+
     echo "
     Hello World di PHP <br>
-    Nama Praktikan : Muhammad Fauzan Ahsani <br>
-    NIM : 2310817310009
+    Nama Praktikan : $nama <br>
+    NIM : $nim
     ";
 ?>
