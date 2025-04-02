@@ -6,9 +6,9 @@
     $kelvin = $celcius + 273.15;
 
     echo "
-        Celcius: $celcius <br>
-        Fahrenheit: $fahrenheit <br>
-        Reamur: $reamur <br>
-        Kelvin: $kelvin
-    ";
+        Celcius: " . number_format($celcius, 4, ',') . "<br>" + 
+        "Fahrenheit: " . number_format($fahrenheit, 4, ',') . "<br>" +
+        "Reamur: " . number_format($reamur, 4, ',') . "<br>" +
+        "Kelvin: " . number_format($kelvin, 4, ',') . "<br>"
+    ;
 ?>
