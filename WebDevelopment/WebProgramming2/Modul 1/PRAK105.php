@@ -8,7 +8,7 @@
     echo "
         <table border= '1px'>
             <tr>
-                <th style='background-color: RED; height: 50px; font-size: 18pt'>Daftar Smartphone Samsung</th>
+                <th style='background-color: RED; height: 60px; font-size: 18pt'>Daftar Smartphone Samsung</th>
             </tr>
             <tr>
                 <td>

@@ -7,8 +7,8 @@
 
     echo "
         Celcius: " . number_format($celcius, 3) . "<br>
-        Fahrenheit: " . number_format($fahrenheit, 4, ',') . "<br>
-        Reamur: " . number_format($reamur, 4, ',') . "<br>
-        Kelvin: " . number_format($kelvin, 4, ',') . "<br>"
+        Fahrenheit (F): " . number_format($fahrenheit, 4, ',') . "<br>
+        Reamur (R): " . number_format($reamur, 4, ',') . "<br>
+        Kelvin (K): " . number_format($kelvin, 4, ',') . "<br>"
     ;
 ?>
