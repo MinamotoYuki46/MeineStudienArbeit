@@ -5,5 +5,5 @@
 
     $areaLimasSegiEmpat = (1 / 3) * $panjang * $lebar * $tinggi;
 
-    echo "$areaLimasSegiEmpat m3";
+    echo number_format($areaLimasSegiEmpat, 3, ',', ) . " m3";
 ?>
