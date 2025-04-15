@@ -61,15 +61,12 @@
         <h1>Hasil: </h1>
         <?php 
             if (isset($_GET['submit'])) {
-                echo '<div class="output-box">';
-                if (is_numeric($result)) {
-                    echo "<h1>" . number_format($result, 2) . "</h1>";
-                } else {
-                    echo "<h1>" . $result . "</h1>";
-                }
-                echo '</div>';
+                echo '
+                    <div class="output-box">
+                        <h1>' . $result . '</h1>
+                    </div>
+                ';
             }
         ?>
-
     </body>
 </html>
