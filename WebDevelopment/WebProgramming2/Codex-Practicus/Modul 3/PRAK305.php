@@ -2,7 +2,7 @@
     $str = '';
     $res = '';
 
-    if (isset($_POST['word'])) {
+    if (isset($_POST['submit'])) {
         $str = $_POST['word'];
         $n = strlen($str);
         $res = printWord($str, $n);
@@ -48,7 +48,7 @@
                 <label>Masukkan kata: </label><br>
                 <input type="text" name="word">
             </div>
-            <button type="submit">Cetak</button>
+            <button type="submit" name="submit">Cetak</button>
         </form>
 
         <h1>Input: </h1> 

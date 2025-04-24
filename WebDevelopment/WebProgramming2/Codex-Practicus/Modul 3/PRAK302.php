@@ -2,8 +2,10 @@
     $num = 0;
     $img = '';
 
-    if(isset($_POST['num'])) $num = $_POST['num'];
-    if(isset($_POST['img'])) $img = $_POST['img'];
+    if (isset($_POST['submit'])) {
+        $num = $_POST['num'];
+        $img = $_POST['img'];
+    }
 ?>
 
 <!DOCTYPE html>
@@ -42,7 +44,7 @@
             </div>
             
 
-            <button type="submit">Cetak</button>
+            <button type="submit" name="submit">Cetak</button>
         </form>
 
         <h1>Hasil</h1>

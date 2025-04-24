@@ -32,7 +32,7 @@
                 <input type="number" name="num" value="<?php echo htmlspecialchars($num ?? ''); ?>">
             </div>
             
-            <button type="submit">Cetak</button>
+            <button type="submit" name="submit">Cetak</button>
         </form>
         <h1>Hasil</h1>
         <div class="output-box">

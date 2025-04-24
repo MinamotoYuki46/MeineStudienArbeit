@@ -2,8 +2,10 @@
     $upper = 0;
     $lower = 0;
 
-    if(isset($_POST['upper'])) $upper = $_POST['upper'];
-    if(isset($_POST['lower'])) $lower = $_POST['lower'];
+    if (isset($_POST['submit'])) {
+        $upper = $_POST['upper'];
+        $submit = $_POST['submit'];
+    }
 
     $img = "star.png";
 ?>
