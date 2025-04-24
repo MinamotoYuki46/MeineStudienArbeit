@@ -53,7 +53,7 @@
                     <label>Jumlah: </label><br>
                     <input type="number" name="num" min="0"><br><br>
                 </div>
-                <button type="submit">Cetak</button>
+                <button type="submit" name="submit">Cetak</button>
             </form>
         <?php else: ?>
             <p>Jumlah: <?php echo $num; ?></p>

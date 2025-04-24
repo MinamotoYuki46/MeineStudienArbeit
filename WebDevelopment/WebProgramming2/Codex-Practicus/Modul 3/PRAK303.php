@@ -4,7 +4,7 @@
 
     if (isset($_POST['submit'])) {
         $upper = $_POST['upper'];
-        $submit = $_POST['submit'];
+        $lower = $_POST['lower'];
     }
 
     $img = "star.png";
