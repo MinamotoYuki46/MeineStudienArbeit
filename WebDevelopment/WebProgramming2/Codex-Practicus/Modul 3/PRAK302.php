@@ -2,10 +2,8 @@
     $num = 0;
     $img = '';
 
-    if(isset($_POST['submit'])){
-        $num = $_POST['num'];
-        $img = $_POST['img'];
-    } 
+    if(isset($_POST['num'])) $num = $_POST['num'];
+    if(isset($_POST['img'])) $img = $_POST['img'];
 ?>
 
 <!DOCTYPE html>
@@ -54,8 +52,9 @@
                 while ($i < $num) {
                     $j = 0;
                     while ($j < $num) {
-                        if ($j < $i)    echo "<img src='$img' class='img' style='visibility: hidden;'>";
-                        else            echo "<img src='$img' class='img'>";
+                        if ($j < $i)    echo "<img src='" . htmlspecialchars($img) . "' class='img' style='visibility: hidden;'>";
+                        else            echo "<img src='" . htmlspecialchars($img) . "' class='img'>";
+
                         $j++;
                     }
                     echo '<br>';
