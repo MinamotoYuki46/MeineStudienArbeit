@@ -1,8 +1,8 @@
 <?php 
     $num = 0;
 
-    if (isset($_POST['submit'])) {
-        $num = $_POST['num'];
+    if (isset($_POST['num'])) {
+        $num = intval($_POST['num']);
     }
 
     $img = "star.png";
