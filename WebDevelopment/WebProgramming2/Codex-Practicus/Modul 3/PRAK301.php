@@ -1,6 +1,6 @@
 <?php 
-    $num;
-    if(isset($_POST['num'])) $num = $_POST['num'];
+    $num = 0;
+    if(isset($_POST['submit'])) $num = $_POST['num'];
 ?>
 
 <!DOCTYPE html>
