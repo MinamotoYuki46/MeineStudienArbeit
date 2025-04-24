@@ -1,9 +1,11 @@
 <?php 
     $num = 0;
-    $img = 'https://cdn0.iconfinder.com/data/icons/web-and-mobile-icons-volume-2/128/52-512.png';
+    $img = '';
 
-    if(isset($_POST['num'])) $num = $_POST['num'];
-    if(isset($_POST['img'])) $img = $_POST['img'];
+    if(isset($_POST['submit'])){
+        $num = $_POST['num'];
+        $img = $_POST['img'];
+    } 
 ?>
 
 <!DOCTYPE html>
@@ -48,15 +50,18 @@
         <h1>Hasil</h1>
         <div class="output-box">
             <?php 
-                for ($i = 0; $i < $num; $i++) {
-                    for ($j = 0; $j < $num; $j++) {
-                        if ($j < $i) echo "<img src='$img' class='img' style='visibility: hidden;'>";
-                        else echo "<img src='$img' class='img'>";
+                $i = 0;
+                while ($i < $num) {
+                    $j = 0;
+                    while ($j < $num) {
+                        if ($j < $i)    echo "<img src='$img' class='img' style='visibility: hidden;'>";
+                        else            echo "<img src='$img' class='img'>";
+                        $j++;
                     }
                     echo '<br>';
+                    $i++;
                 }
             ?>
         </div>
-        
     </body>
 </html>
