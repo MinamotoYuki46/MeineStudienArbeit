@@ -33,7 +33,7 @@
             }
 
             th {
-                background-color: grey;
+                background-color: #d0cece;
                 font-weight: bold;
                 color: black;
             }
@@ -43,7 +43,7 @@
     </head>
     <body>
         <table>
-            <tr style="background-color: grey; font-style: bold;">
+            <tr style="font-style: bold;">
                 <th>Nama</th>
                 <th>NIM</th>
                 <th>Nilai UTS</th>

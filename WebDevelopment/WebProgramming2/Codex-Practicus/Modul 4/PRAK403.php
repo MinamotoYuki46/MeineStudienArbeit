@@ -47,17 +47,15 @@
             }
 
             th {
-                background-color: grey;
+                background-color: #d0cece;
                 font-weight: bold;
                 color: black;
             }
-
         </style>
-
     </head>
     <body>
         <table>
-            <tr style="background-color: grey; font-style: bold;">
+            <tr style="font-style: bold;">
                 <th>No</th>
                 <th>Nama</th>
                 <th>Mata Kuliah diambil</th>

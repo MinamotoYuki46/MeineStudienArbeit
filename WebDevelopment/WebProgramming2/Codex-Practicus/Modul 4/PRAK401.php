@@ -1,6 +1,5 @@
 <?php 
-
-    $nums = $nums ?? [];
+    $nums = [];
 
     if (isset($_POST['submit'])){
         $length = $_POST['length'] ?? 0;
@@ -27,7 +26,6 @@
         }
         echo '</table>';
     }
-
 ?>
 
 <!DOCTYPE html>
