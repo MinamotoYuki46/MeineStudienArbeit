@@ -335,5 +335,19 @@ CLUBS = [
         description=textwrap.dedent("""
             After years of building, Manchester City finally reached the summit in 2023. Pep Guardiola's side played mesmerising football to win the Premier League, FA Cup, and the elusive UEFA Champions League, beating Inter Milan in the final. Led by Haaland and De Bruyne, their treble was the crowning achievement of a footballing dynasty.
         """).strip()
+    ),
+
+    Club(
+        id="paris_saint-germain_fc",
+        name="Paris Saint-Germain FC",
+        country="France",
+        confederation="UEFA",
+        treble_years=["2025"],
+        competition_ids=["ligue_1", "coupe_de_france", "uefa_champions_league"],
+        logo_url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMbVmT0vg94b9ZaYZvTxI8NVuD2z4mylTrAwj-1AmK7bqaDwHYVr9hteeLmidE68cmPfGTB_g3vnan4y5IcaK-vqXSPpEV6fczPgJs2mMpVYAT__F7lTAQ3mfgryMCTp6Y-AaVOZ0O0mUf/s1600/Paris+Saint+Germain.png",
+        web_url="https://en.psg.fr/",
+        description=textwrap.dedent("""
+            Paris Saint-Germain’s 2024–25 campaign under Luis Enrique was characterised by domestic dominance and continental ambition: they secured the Ligue 1 title with a commanding performance throughout the season and followed it by lifting the Coupe de France, before embarking on a memorable UEFA Champions League run that culminated in a historic 5–0 victory over Inter Milan in the final—securing the club’s first European Cup and completing a continental treble, a feat no French side had achieved before.
+        """).strip()
     )
 ]

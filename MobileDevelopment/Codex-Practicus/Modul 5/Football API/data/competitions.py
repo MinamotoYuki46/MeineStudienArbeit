@@ -359,5 +359,23 @@ COMPETITIONS = [
         confederation="UEFA",
         logo_url="https://blogger.googleusercontent.com/img/a/AVvXsEjarxOMJvogM6bbcWlxCwLiNM01EjglNbr_HiuG0_4IPLOurn2OFz1ADMJy7Dm9kGo3tEZbBDNbJvDBzPNTDelamxtoKCUTJ54JprrEg9GoysMaxykNV_7w4C29I_01RnaaKPHg-7tFGHJkSgWhk87dNsInvLn8IFjumfDJR9ujA0yUxMPcDONf9Z4S=s16000",
         logo_url_dark=""
+    ),
+
+    Competition(
+        id="ligue_1",
+        name="Ligue 1",
+        country="France",
+        confederation="UEFA",
+        logo_url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU3I0UcpOk2nXpxekhJtd7LlvNZMjrhM3Wr5NeqEzsDbteF-Atz-OT3qKqDk_bRbCELeVbGsD4MTJqb8qjb_pLXNyiXijrcyOT5xGaAVGl-nJM5ExVVdxorBzpKMJo17YT7R412xbU9cTlPeN6DuyCwyt_ycw49P33qgSfJFwPgT6DPysIjdRgFV9Kw7Y/s512/FRA.png",
+        logo_url_dark="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu12AwR6MfHy54nNO3BK_dHCx_hyphenhyphenVBI1k-UZJF1s2Ydm1y2KZiOOnl7eeDbF6qt4N55mkGQHPjp4huawQw3YTv6-X8dD4tulyubV4l-eQJYqFm_RblFpjUWmGpn0Q-rYFifY8eT1xzsgnxjHqlcO5ZZUdVetrilcf3sPifE1pUqdW1YbFpi-K2F7blh_k/s16000/Ligue%201%20McDonald's%20.png",
+    ),
+
+    Competition(
+        id="coupe_de_france",
+        name="Coupe de France",
+        country="France",
+        confederation="UEFA",
+        logo_url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwHPuw5232suqSlHbxSSPmOTa7kVdgiN_DsqYlXvNcqst5o3hIAEXOWGpnRj2JtLPYnZk2J-ekD1_-fkAP-Cbs0Wgi-9OghpyKUHFFt95hssu0bGERudF0yt0J9kjczSE7eQnOJ9pa2YD5YC9SdzCCFkbXENU2bHtxTqHqTuhI-1R3jC91i7QkfKNvt4/s16000/Coupe%20de%20France.png",
+        logo_url_dark=""
     )
 ]
