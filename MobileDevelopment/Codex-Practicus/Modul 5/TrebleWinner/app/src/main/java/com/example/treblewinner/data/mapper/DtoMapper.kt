@@ -82,9 +82,6 @@ object DtoMapper {
             webUrl = data.club.webUrl,
             description = data.club.description,
             isBookmarked = data.club.isBookmarked
-            // Kalau perlu, kamu bisa juga tambahkan list competition sebagai properti tambahan di model domain
         )
     }
-
-
 }

@@ -86,4 +86,3 @@ fun HomeScreen(
 }
 
 data class NavTab(val title: String, val icon: ImageVector)
-

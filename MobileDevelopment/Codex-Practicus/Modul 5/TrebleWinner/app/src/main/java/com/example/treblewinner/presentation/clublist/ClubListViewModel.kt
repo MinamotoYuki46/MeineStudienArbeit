@@ -72,6 +72,4 @@ class ClubListViewModel @Inject constructor(
             Log.i("ClubVM", "Data already loaded!")
         }
     }
-
-
 }
